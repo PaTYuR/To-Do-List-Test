@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "623210bc53250000ef003d3a"
+  },
+  "carcompany": "Pengerjaan Risa",
+  "model": "Done",
+  "price": "2022-03-17",
+  "updated_at": {
+    "$date": "2022-03-16T16:30:52.741Z"
+  },
+  "created_at": {
+    "$date": "2022-03-16T16:30:52.741Z"
+  }
+}]
